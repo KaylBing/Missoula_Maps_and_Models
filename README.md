@@ -1,2 +1,1 @@
-# Missoula_Maps_-_Models
-Me testing mapping software
+This is a collection of maps and programs I have created or gathered for different natural disasters in Missoula, Montana. For more details on each of these specific programs, please consult the subdirectory READMEs.
